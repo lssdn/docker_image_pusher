@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 #homeassistant/home-assistant
-xiaoyaliu/alist
+#xiaoyaliu/alist
+cooderl/wewe-rss-sqlite:latest
