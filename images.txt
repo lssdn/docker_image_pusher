@@ -6,4 +6,5 @@
 #python:alpine3.19
 #homeassistant/home-assistant
 #xiaoyaliu/alist
-cooderl/wewe-rss-sqlite:latest
+#cooderl/wewe-rss-sqlite:latest
+tooljet/try:EE-LTS-latest
